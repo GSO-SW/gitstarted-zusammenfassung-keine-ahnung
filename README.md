@@ -39,7 +39,11 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git
 
 Hallo von Jonathan
 Hallo Jonathan
+<<<<<<< HEAD
 Hallo hier ist Raman
 Hallo hier ist Erster commizt
 HAllo
 2ter Commit FRau lewin sie sind cool
+=======
+Hallo hier ist Raman. hier ist mein erster commmit \(￣︶￣*\)). Hier ist mein zweiter commit ( ´･･)ﾉ(._.`). Hier ist mein dritter (ง'̀-'́)ง
+>>>>>>> RamanBranch
