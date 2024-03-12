@@ -39,5 +39,4 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git
 
 Hallo von Jonathan
 Hallo Jonathan
-Hallo hier ist Raman. hier ist mein erster commmit \(￣︶￣*\))
-Hier ist mein zweiter commit ( ´･･)ﾉ(._.`)
+Hallo hier ist Raman. hier ist mein erster commmit \(￣︶￣*\)) Hier ist mein zweiter commit ( ´･･)ﾉ(._.`)
