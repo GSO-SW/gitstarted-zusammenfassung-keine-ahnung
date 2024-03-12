@@ -35,6 +35,7 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git
 - git **Befehle** für die Arbeit mit **lokalen Repositories** auflisten (z.B. `git init` bis `git merge --abort`)
 - git **Befehle** für die Arbeit mit **entfernten Repositories** auflisten (z.B. `git clone` bis `$ git push --set-upstream origin/develop`)
 -
+<<<<<<< HEAD
 
 
 Hallo von Jonathan
@@ -49,3 +50,9 @@ Hallo hier ist Raman. hier ist mein erster commmit \(￣︶￣*\)). Hier ist mei
 >>>>>>> RamanBranch
 M
 .hallo
+=======
+erster commit
+erster cimmit
+frau lewin 2 commit
+>>>>>>> maciej
+irgendwas 
