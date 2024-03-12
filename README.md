@@ -35,3 +35,6 @@ In dieser Readme.md soll zusammengefasst werden, was man für die Arbeit mit git
 - git **Befehle** für die Arbeit mit **lokalen Repositories** auflisten (z.B. `git init` bis `git merge --abort`)
 - git **Befehle** für die Arbeit mit **entfernten Repositories** auflisten (z.B. `git clone` bis `$ git push --set-upstream origin/develop`)
 -
+
+
+Hallo von Jonathan
