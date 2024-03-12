@@ -49,3 +49,4 @@ Hallo hier ist Raman. hier ist mein erster commmit \(￣︶￣*\)). Hier ist mei
 >>>>>>> RamanBranch
 Maciej commit 1 
 test
+Maciek hier
