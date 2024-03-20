@@ -55,4 +55,9 @@ erster commit
 erster cimmit
 frau lewin 2 commit
 >>>>>>> maciej
-irgendwas 
+irgendwas
+
+## Bewertung
+Hallo Jonathan, Raman, Macej,
+euer Abgabe empfinde ich als absolute Frechheit. Ihr habt euch weder über die Aufgabenstellung (die hier oben im Dokument steht), noch über die Bewertungskriterien informiert. Daher kann ich diese "Abgabe" nur mit 0 Punkten bewerten.
+Sarah Lewin
